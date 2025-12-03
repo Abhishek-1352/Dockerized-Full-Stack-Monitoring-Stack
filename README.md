@@ -1,5 +1,3 @@
-Here is your **README.md fully cleaned, formatted, and ready to paste** into GitHub 👇
-
 ---
 
 # 🚀 Full Docker Deployment: React App + Prometheus + Grafana + cAdvisor + Node Exporter
