@@ -1,5 +1,3 @@
----
-
 # 🚀 Full Docker Deployment: React App + Prometheus + Grafana + cAdvisor + Node Exporter
 
 This repository contains a **fully production-ready monitoring stack** that deploys:
